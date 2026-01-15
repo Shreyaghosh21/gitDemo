@@ -21,6 +21,7 @@ namespace gitDemo
 
             app.UseHttpsRedirection();
             app.UseStaticFiles();
+            //second change
 
             app.UseRouting();
 
